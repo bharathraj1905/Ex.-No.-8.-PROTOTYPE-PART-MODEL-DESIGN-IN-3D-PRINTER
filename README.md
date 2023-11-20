@@ -47,8 +47,11 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+```
+ Name: BARATHRAJ B
+ Register Number: 212222230019
+```
+![img8](https://github.com/Gchethankumar/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/118348224/50812c6f-dd26-42eb-8500-1e94e8b71978)
 
 ## RESULT:
 ###   Thus a prototype of the given part model is developed using 3D Printer.
